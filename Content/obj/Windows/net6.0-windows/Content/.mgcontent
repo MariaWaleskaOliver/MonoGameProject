@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/ABOUT.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/about3.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/aboutNew.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/AboutNew2.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/barra.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/BG_02.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/bg.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/fundo.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/help2.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/helpPage.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/initialScreen.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/kungfu.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Image/telainicial.png</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/gameOverSong.mp3</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/mulherApanhado1.mp3</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/mulherApanhando2.mp3</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/tocarDuranteJogo.mp3</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/win1.mp3</File>
+    <File>C:/Users/rapha/Desktop/gameCertodoCerto/gameCertodoCerto/GameFinalProjectEdited/GameFinalProject/GameFinalProject/FinalProject/Content/Songs/win2.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
